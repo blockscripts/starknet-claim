@@ -1,0 +1,4 @@
+starknet_py
+python-dotenv
+pydantic_settings
+questionary
