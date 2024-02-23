@@ -1,0 +1,4 @@
+# privkey:cex_addr_strk if claiming
+# privkey:cex_addr_eth if clearing (withdrawing ETH)
+0xpriv1:0xcex1
+0xpriv2:0xcex2
